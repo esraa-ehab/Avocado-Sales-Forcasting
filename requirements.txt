@@ -4,3 +4,4 @@ tensorflow
 joblib
 numpy
 pydantic
+scikit-learn
