@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Documents/Depi%20project/mlruns/0/ed45d10e3cba48c3b03abff4b8112957/artifacts
+end_time: 1747333563859
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed45d10e3cba48c3b03abff4b8112957
+run_name: capable-smelt-30
+run_uuid: ed45d10e3cba48c3b03abff4b8112957
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747333554043
+status: 3
+tags: []
+user_id: user

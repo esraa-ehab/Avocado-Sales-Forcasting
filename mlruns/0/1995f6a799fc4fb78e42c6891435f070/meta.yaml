@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Documents/Depi%20project/mlruns/0/1995f6a799fc4fb78e42c6891435f070/artifacts
+end_time: 1747333483485
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1995f6a799fc4fb78e42c6891435f070
+run_name: invincible-rook-738
+run_uuid: 1995f6a799fc4fb78e42c6891435f070
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747333470012
+status: 4
+tags: []
+user_id: user

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Documents/Depi%20project/mlruns/0/1129155a1a5b466da01adba533aba513/artifacts
+end_time: 1747333011305
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1129155a1a5b466da01adba533aba513
+run_name: blushing-ox-896
+run_uuid: 1129155a1a5b466da01adba533aba513
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747332996768
+status: 4
+tags: []
+user_id: user

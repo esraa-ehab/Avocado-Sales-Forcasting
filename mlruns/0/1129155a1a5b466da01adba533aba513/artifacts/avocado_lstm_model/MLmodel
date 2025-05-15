@@ -1,0 +1,19 @@
+artifact_path: avocado_lstm_model
+flavors:
+  keras:
+    data: data
+    keras_backend: tensorflow
+    keras_version: 3.3.3
+    save_exported_model: false
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.keras
+    python_version: 3.11.7
+mlflow_version: 2.22.0
+model_size_bytes: 1199731
+model_uuid: 1191c29087614b90978ad5d9852c51a6
+prompts: null
+run_id: 1129155a1a5b466da01adba533aba513
+utc_time_created: '2025-05-15 18:16:36.784923'
