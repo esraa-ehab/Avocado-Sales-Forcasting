@@ -94,7 +94,7 @@ The goal is to predict avocado sales volume using historical sales data. I train
 ## Installation
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/esraa-ehab/Avocado-Sales-Forcasting
 cd avocado-sales-prediction
 pip install -r requirements.txt
 uvicorn main:app --reload
