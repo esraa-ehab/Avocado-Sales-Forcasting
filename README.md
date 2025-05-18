@@ -1,6 +1,6 @@
 # 🥑 Avocado Sales Volume Prediction
 
-This project predicts the next total sales volume of avocados based on the past 30 sales values provided by the user. It involves a complete workflow of data cleaning, training with machine learning (LSTM model), forecasting, evaluation, and deployment as a web application.
+This project predicts the next total sales volume of avocados based on the past 30 sales values provided by the user. It involves a complete workflow of data cleaning, training with machine learning (LSTM model), forecasting, evaluation, and deployment as a [web application](https://web-production-cb31.up.railway.app/).
 
 ---
 
@@ -64,8 +64,7 @@ The goal is to predict avocado sales volume using historical sales data. I train
 - Developed a FastAPI application to expose the prediction model via a REST API.
 - Created a user-friendly frontend with HTML, CSS, and Chart.js for input and visualizing predictions.
 - Deployed the app on Railway for easy online access.
-- Included static assets like images and custom styles.
-
+- To test the app click [here](https://web-production-cb31.up.railway.app/)
 ---
 
 ## Usage
